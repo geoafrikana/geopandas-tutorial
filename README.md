@@ -1,6 +1,6 @@
 # geopandas-working-with-attributes
 The dataset for this tutorial contains information about populated places of the world. The task is to query and find all the capital cities in the World that have a population greater than 1 million and save the resulting subset as a GeoJSON file.
 
-[![Working with Attributes in GeoPandas]({https://i.imgur.com/JWzqKyq.png})]({https://www.youtube.com/watch?v=rVFoNJhFXWQ} "Link Title")
+# Watch the Video on Youtube
 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/sYoxonl.png)](https://www.youtube.com/watch?v=rVFoNJhFXWQ)
+[![Working with Attributes in GeoPandas](https://i.imgur.com/sYoxonl.png)](https://www.youtube.com/watch?v=rVFoNJhFXWQ)
